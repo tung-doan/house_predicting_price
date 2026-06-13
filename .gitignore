@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large data files (Optional - decide if you want to push csv)
+# *.csv
+
+# Models
+*.pkl
+
+# Project specific
+stats_cleaned.csv
+model_comparison.csv
